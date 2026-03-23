@@ -7,13 +7,16 @@
 **London Homes Energy Dataset**: [Energy Data](https://data.nationalgrideso.com/demand/historic-demand-data)
 
 # Final look of Orange workflow and Tableau dashboards
-1. Entire Orange workflow showing the steps for data pre-processing (data cleaning, merging both datasets, and performing EDA) for accurate electricity demand prediction:
+**data pre-processing (data cleaning, merging both datasets, and performing EDA) electricity demand**
 <img width="975" height="408" alt="image" src="https://github.com/user-attachments/assets/ae4c7192-e21d-44b0-9058-e1a6b99d4d7c" />
-2. Complete Orange workflow illustrating the full data mining and machine learning process, clustering, association rules, predictive modeling, and evaluation for electricity demand forecasting
+**data mining and machine learning process for electricity demand forecasting**
 <img width="818" height="646" alt="image" src="https://github.com/user-attachments/assets/3c08c427-1072-4b31-bc4d-69e1f16b24b8" />
-3. Temperature-Driven Demand Forecasting
+**Temperature-Driven Demand Forecasting**
+
 <img width="975" height="445" alt="image" src="https://github.com/user-attachments/assets/e71ef8ef-f207-412e-a241-c532273dab67" />
-4. Multi-Weather Variable Analysis
+
+**Multi-Weather Variable Analysis**
+
 <img width="975" height="446" alt="image" src="https://github.com/user-attachments/assets/94811433-b8b9-433a-b16b-23763ce34446" />
 
 
