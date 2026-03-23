@@ -7,11 +7,15 @@
 **London Homes Energy Dataset**: [Energy Data](https://data.nationalgrideso.com/demand/historic-demand-data)
 
 # Final look of Orange workflow and Tableau dashboards
+
 **data pre-processing (data cleaning, merging both datasets, and performing EDA) electricity demand**
+
 <img width="975" height="408" alt="image" src="https://github.com/user-attachments/assets/ae4c7192-e21d-44b0-9058-e1a6b99d4d7c" />
 
 **data mining and machine learning process for electricity demand forecasting**
+
 <img width="818" height="646" alt="image" src="https://github.com/user-attachments/assets/3c08c427-1072-4b31-bc4d-69e1f16b24b8" />
+
 **Temperature-Driven Demand Forecasting**
 
 <img width="975" height="445" alt="image" src="https://github.com/user-attachments/assets/e71ef8ef-f207-412e-a241-c532273dab67" />
